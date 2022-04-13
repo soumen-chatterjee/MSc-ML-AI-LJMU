@@ -1,1 +1,1 @@
-# ljmu_thesis_2021
+# MSc-ML-AI-LJMU
